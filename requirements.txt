@@ -1,0 +1,8 @@
+xsdata
+lxml
+pytz
+numpy
+psycopg2
+pyproj
+gtfsdb
+sqlalchemy<1.4
