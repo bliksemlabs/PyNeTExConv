@@ -6,3 +6,4 @@ psycopg2
 pyproj
 gtfsdb
 sqlalchemy<1.4
+xsdata[cli]
